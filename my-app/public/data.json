@@ -1,0 +1,48 @@
+{
+    "items": [
+      {
+        "value": "React.js",
+        "label": "React.js"
+      },
+      {
+        "value": "Vue.js",
+        "label": "Vue.js"
+      },
+      {
+        "value": "PHP",
+        "label": "PHP"
+      },
+      {
+        "value": "Solana",
+        "label": "Solana"
+      },
+      {
+        "value": "Amazon web service",
+        "label": "Amazon web service"
+      },
+      {
+        "value": "Node.js",
+        "label": "Node.js"
+      },
+      {
+        "value": "Github",
+        "label": "Github"
+      },
+      {
+        "value": "Blockchain",
+        "label": "Blockchain"
+      },
+      {
+        "value": "Smart contract",
+        "label": "Smart contract"
+      },
+      {
+        "value": "Angular.js",
+        "label": "Angular.js"
+      },
+      {
+        "value": "Next.js",
+        "label": "Next.js"
+      }
+    ]
+  }
